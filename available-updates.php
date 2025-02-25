@@ -4,7 +4,7 @@
  Plugin URI:  https://paladin-bs.com/plugins/
  Description: Plugin to add a simple menu item under the Plugins menu to take the admin user directly to the update plugins page.
  Author:      Peter MacIntyre
- Version:     1.3.12
+ Version:     1.4
  Author URI:  https://paladin-bs.com/peter-macintyre/
  Details URI: https://paladin-bs.com
  License:     GPL2 

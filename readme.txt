@@ -4,7 +4,7 @@ Donate link:       https://paladin-bs.com/plugin-donation/
 Tags:              Plugin Updates
 Requires at least: 6.0
 Tested up to:      6.6.2
-Stable tag:        1.3.12
+Stable tag:        1.4
 Requires PHP:      8.2
 License:           GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -39,6 +39,9 @@ You're welcome!
 2. The existing menu is pushed down and now "Available Updates" is top most
 
 == Changelog ==
+
+= 1.4 =
+* Release to be compatible with WP 6.7.2
 
 = 1.3.12 =
 * Release to be compatible with WP 6.6.2
